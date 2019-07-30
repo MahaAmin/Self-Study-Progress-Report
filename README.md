@@ -19,4 +19,4 @@ This is a detailed report about my self-learning progress.
 |Effective Thinking Through Mathematics|EDX, Texas Univ|Oct 2016||
 |Learning How To Learn|Coursera, California San Diego Univ|Jan 2016||
 |Introduction To Chemistry: Reactions and Ratios|Coursera, Duke Univ|Oct 2015|[Statement of Accomplishment](https://drive.google.com/file/d/1BiPO9RarQk97i9B7nGtJsr_Uzm3aLdTS/view)
-|
+
