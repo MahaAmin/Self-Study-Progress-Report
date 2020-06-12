@@ -4,6 +4,7 @@ This is a detailed report about my self-learning progress.
 
 | Course Name | Provider | Date of Completion | Certificate | Project|
 |:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
+|Cloud Application Developer Training|IBM|Jun 2020|[Badge](https://www.youracclaim.com/badges/4c0b0c11-cff4-45c7-810a-707093aa5ca1/linked_in_profile)
 |Data Analyst With R|Datacamp|Jan 2020|[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/e185a9e20f0d90fba161463d50655f40d325d80c)
 |IOT Fundamentals|IBM|Sep 2019|[Badge](https://www.youracclaim.com/badges/0040d574-42ee-4c98-9df9-6e5cf1767814/linked_in_profile)|
 |NodeJS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/68fe2a83-c82e-4030-917d-46e9a1e42f91/linked_in_profile)|
