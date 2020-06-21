@@ -4,6 +4,7 @@ This is a detailed report about my self-learning progress.
 
 | Course Name | Provider | Date of Completion | Certificate | Project|
 |:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
+|Architecting with Google Kubernetes Engine: Foundations|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/L6QESGTVTVCB)||
 |Google Cloud Platform Fundamentals: Core Infrastructure|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/QPFGHPRUVH76?utm_product=course)||
 |Cloud Application Developer Training|IBM|Jun 2020|[Badge](https://www.youracclaim.com/badges/4c0b0c11-cff4-45c7-810a-707093aa5ca1/linked_in_profile)
 |Full Stack Development Track|Udacity - 1MAC|May 2020|[Certificate](https://drive.google.com/file/d/1HogSYr4tuXdLvPCciQqz_ybXdyQmnAKs/view?usp=sharing)
