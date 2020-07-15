@@ -18,7 +18,7 @@ This is a detailed report about my self-learning progress.
 |16|Cloud Computing|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/ad1cc6eb-e448-40c5-9a79-ee4388b862f8/linked_in_profile)| 
 |15|Cloud Foundry|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/849aab2b-e1e2-4cc8-a501-88c3be1fed03/linked_in_profile)|
 |14|Web Development|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/bff014be-3bad-47d8-9f03-244c385b06c7/linked_in_profile)|
-|13|Data Analyst Track|Udacity-1MAC|[Certificate](https://drive.google.com/file/d/10G0uERmeonA-49i7fC5TaOG32DiS3Vow/view?usp=sharing)||
+|13|Data Analyst Track|Udacity-1MAC|Jun 2019|[Certificate](https://drive.google.com/file/d/10G0uERmeonA-49i7fC5TaOG32DiS3Vow/view?usp=sharing)||
 |12|Data Foundations Nanodegree|Udacity|Dec 2018|[Certificate](https://graduation.udacity.com/confirm/ARQQE45N)|[4 Projects](https://github.com/MahaAmin/Udacity-DFND-Projects)
 |11|Bioinformatics I: Biology Meets Programming|Coursera, UC San Diego Univ|Sep 2018||[Hands-On](https://github.com/MahaAmin/Bioinformatics-HandsOn)
 |10|Linux: Kernels and Logging for System Administration|Lynda|Mar 2018|[Statement of Accomplishment](https://drive.google.com/file/d/1tUmmntSGFejCWh86NhmntBkJFCDNHREs/view)|
