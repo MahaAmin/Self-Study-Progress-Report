@@ -4,20 +4,21 @@ This is a detailed report about my self-learning progress.
 
 |No.| Course Name | Provider | Date of Completion | Certificate | Project|
 |:-:|:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
-|26|Docker For The Absolute Beginner|KodeKloud|Jul 2020|[Certificate](https://drive.google.com/file/d/14ymJBTLP6DQDiT7RyChb6NZYIGVMP_WH/view?usp=sharing)||
-|25|Architecting with Google Kubernetes Engine: Foundations|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/L6QESGTVTVCB)||
-|24|Google Cloud Platform Fundamentals: Core Infrastructure|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/QPFGHPRUVH76?utm_product=course)||
-|23|Cloud Application Developer Training|IBM|Jun 2020|[Badge](https://www.youracclaim.com/badges/4c0b0c11-cff4-45c7-810a-707093aa5ca1/linked_in_profile) |[Certificate](https://drive.google.com/file/d/1VWDoYFKUG3ljjzMVcvhZ1R_eRHDwmRiH/view?usp=sharing)
-|22|Full Stack Development Track|Udacity - 1MAC|May 2020|[Certificate](https://drive.google.com/file/d/1HogSYr4tuXdLvPCciQqz_ybXdyQmnAKs/view?usp=sharing)
-|21|Data Analyst With R|Datacamp|Jan 2020|[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/e185a9e20f0d90fba161463d50655f40d325d80c)
-|20|IOT Fundamentals|IBM|Sep 2019|[Badge](https://www.youracclaim.com/badges/0040d574-42ee-4c98-9df9-6e5cf1767814/linked_in_profile)|
-|19|NodeJS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/68fe2a83-c82e-4030-917d-46e9a1e42f91/linked_in_profile)|
-|18|JavaScript|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/8ad58e35-d48b-4a86-98f7-e0de39490058/linked_in_profile)|
-|17|HTML/CSS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/e31ff424-4e0b-4260-ae16-8300c5158922/linked_in_profile)|
-|16|Cloud Database|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/0164c1db-4e10-45a7-b5f2-8901459a7814/linked_in_profile)||
-|15|Cloud Computing|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/ad1cc6eb-e448-40c5-9a79-ee4388b862f8/linked_in_profile)| 
-|14|Cloud Foundry|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/849aab2b-e1e2-4cc8-a501-88c3be1fed03/linked_in_profile)|
-|13|Web Development|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/bff014be-3bad-47d8-9f03-244c385b06c7/linked_in_profile)|
+|27|Docker For The Absolute Beginner|KodeKloud|Jul 2020|[Certificate](https://drive.google.com/file/d/14ymJBTLP6DQDiT7RyChb6NZYIGVMP_WH/view?usp=sharing)||
+|26|Architecting with Google Kubernetes Engine: Foundations|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/L6QESGTVTVCB)||
+|25|Google Cloud Platform Fundamentals: Core Infrastructure|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/QPFGHPRUVH76?utm_product=course)||
+|24|Cloud Application Developer Training|IBM|Jun 2020|[Badge](https://www.youracclaim.com/badges/4c0b0c11-cff4-45c7-810a-707093aa5ca1/linked_in_profile) |[Certificate](https://drive.google.com/file/d/1VWDoYFKUG3ljjzMVcvhZ1R_eRHDwmRiH/view?usp=sharing)
+|23|Full Stack Development Track|Udacity - 1MAC|May 2020|[Certificate](https://drive.google.com/file/d/1HogSYr4tuXdLvPCciQqz_ybXdyQmnAKs/view?usp=sharing)
+|22|Data Analyst With R|Datacamp|Jan 2020|[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/e185a9e20f0d90fba161463d50655f40d325d80c)
+|21|IOT Fundamentals|IBM|Sep 2019|[Badge](https://www.youracclaim.com/badges/0040d574-42ee-4c98-9df9-6e5cf1767814/linked_in_profile)|
+|20|NodeJS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/68fe2a83-c82e-4030-917d-46e9a1e42f91/linked_in_profile)|
+|19|JavaScript|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/8ad58e35-d48b-4a86-98f7-e0de39490058/linked_in_profile)|
+|18|HTML/CSS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/e31ff424-4e0b-4260-ae16-8300c5158922/linked_in_profile)|
+|17|Cloud Database|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/0164c1db-4e10-45a7-b5f2-8901459a7814/linked_in_profile)||
+|16|Cloud Computing|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/ad1cc6eb-e448-40c5-9a79-ee4388b862f8/linked_in_profile)| 
+|15|Cloud Foundry|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/849aab2b-e1e2-4cc8-a501-88c3be1fed03/linked_in_profile)|
+|14|Web Development|IBM|Jul 2019|[Badge](https://www.youracclaim.com/badges/bff014be-3bad-47d8-9f03-244c385b06c7/linked_in_profile)|
+|13|Data Analyst Track|Udacity-1MAC|[Certificate](https://drive.google.com/file/d/10G0uERmeonA-49i7fC5TaOG32DiS3Vow/view?usp=sharing)||
 |12|Data Foundations Nanodegree|Udacity|Dec 2018|[Certificate](https://graduation.udacity.com/confirm/ARQQE45N)|[4 Projects](https://github.com/MahaAmin/Udacity-DFND-Projects)
 |11|Bioinformatics I: Biology Meets Programming|Coursera, UC San Diego Univ|Sep 2018||[Hands-On](https://github.com/MahaAmin/Bioinformatics-HandsOn)
 |10|Linux: Kernels and Logging for System Administration|Lynda|Mar 2018|[Statement of Accomplishment](https://drive.google.com/file/d/1tUmmntSGFejCWh86NhmntBkJFCDNHREs/view)|
