@@ -5,7 +5,7 @@ This is a detailed report about my self-learning progress.
 |No.| Course Name | Provider | Date of Completion | Certificate | Project|
 |:-:|:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
 |29|Kuberntes For The Absolute Beginner|Udemy, KodeKLoud|Jul 2020||[Project](https://github.com/MahaAmin/Voting-App-Stack-Kubernetes)|
-|28|AWS Machine Learning Foundations Course|Udacity|Jul 2020|||
+|28|AWS Machine Learning Foundations Course|Udacity|Jul 2020||[Project](https://pypi.org/project/maha-my-first-package/)|
 |27|Docker For The Absolute Beginner|KodeKloud|Jul 2020|[Certificate](https://drive.google.com/file/d/14ymJBTLP6DQDiT7RyChb6NZYIGVMP_WH/view?usp=sharing)||
 |26|Architecting with Google Kubernetes Engine: Foundations|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/L6QESGTVTVCB)||
 |25|Google Cloud Platform Fundamentals: Core Infrastructure|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/QPFGHPRUVH76?utm_product=course)||
