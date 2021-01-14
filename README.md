@@ -4,6 +4,7 @@ This is a detailed report about my self-learning progress.
 
 |No.| Course Name | Provider | Date of Completion | Certificate | Project|
 |:-:|:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
+|31| Microservices Architecture - The Complete Guide| Udemy| Jan 2021| [Certificate](https://drive.google.com/file/d/1ZOYI_DpI0SwUQYS0pcyR9rktCvjkj3Mx/view?usp=sharing)||
 |30|Cloud DevOps Engineer Nanodegree|Udacity|Sep 2020|[Certificate](https://confirm.udacity.com/CSMTTZSC)|[Capstone Project](https://github.com/MahaAmin/Udacity-DevOps-Capstone)|
 |29|Kuberntes For The Absolute Beginner|Udemy, KodeKLoud|Jul 2020||[Project](https://github.com/MahaAmin/Voting-App-Stack-Kubernetes)|
 |28|AWS Machine Learning Foundations Course|Udacity|Jul 2020|[Certificate](https://drive.google.com/file/d/1MGcfNC0stZKDyg1f5CjJ1x3aoRrRcdmo/view?usp=sharing)|[Project](https://pypi.org/project/maha-my-first-package/)|
