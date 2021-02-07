@@ -4,6 +4,7 @@ This is a detailed report about my self-learning progress.
 
 |No.| Course Name | Provider | Date of Completion | Certificate | Project|
 |:-:|:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
+|32| Architecting with GKE Specialization (4 courses)| GoogleCloud, Coursera| Feb 2021| [Certificate](https://coursera.org/share/b1b9d7180b80aa29154584d34111e4ac)||
 |31| Microservices Architecture - The Complete Guide| Udemy| Jan 2021| [Certificate](https://drive.google.com/file/d/1ZOYI_DpI0SwUQYS0pcyR9rktCvjkj3Mx/view?usp=sharing)||
 |30|Cloud DevOps Engineer Nanodegree|Udacity|Sep 2020|[Certificate](https://confirm.udacity.com/CSMTTZSC)|[Capstone Project](https://github.com/MahaAmin/Udacity-DevOps-Capstone)|
 |29|Kuberntes For The Absolute Beginner|Udemy, KodeKLoud|Jul 2020||[Project](https://github.com/MahaAmin/Voting-App-Stack-Kubernetes)|
