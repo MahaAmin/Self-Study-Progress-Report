@@ -15,7 +15,7 @@ This is a detailed report about my self-learning progress.
 |25|Google Cloud Platform Fundamentals: Core Infrastructure|Coursera|Jun 2020|[Certificate](https://www.coursera.org/account/accomplishments/records/QPFGHPRUVH76?utm_product=course)||
 |24|Cloud Application Developer Training|IBM|Jun 2020|[Badge](https://www.youracclaim.com/badges/4c0b0c11-cff4-45c7-810a-707093aa5ca1/linked_in_profile) |[Certificate](https://drive.google.com/file/d/1VWDoYFKUG3ljjzMVcvhZ1R_eRHDwmRiH/view?usp=sharing)
 |23|Full Stack Development Track|Udacity - 1MAC|May 2020|[Certificate](https://drive.google.com/file/d/1HogSYr4tuXdLvPCciQqz_ybXdyQmnAKs/view?usp=sharing)
-|22|Data Analyst With R|Datacamp|Jan 2020|[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/e185a9e20f0d90fba161463d50655f40d325d80c)
+|22|Data Analyst With R (19 courses)|Datacamp|Jan 2020|[Statement Of Accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/e185a9e20f0d90fba161463d50655f40d325d80c)
 |21|IOT Fundamentals|IBM|Sep 2019|[Badge](https://www.youracclaim.com/badges/0040d574-42ee-4c98-9df9-6e5cf1767814/linked_in_profile)|
 |20|NodeJS|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/68fe2a83-c82e-4030-917d-46e9a1e42f91/linked_in_profile)|
 |19|JavaScript|IBM|Aug 2019|[Badge](https://www.youracclaim.com/badges/8ad58e35-d48b-4a86-98f7-e0de39490058/linked_in_profile)|
