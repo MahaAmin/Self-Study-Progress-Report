@@ -4,6 +4,7 @@ This is a detailed report about my self-learning progress.
 
 |No.| Course Name | Provider | Date of Completion | Certificate | Project|
 |:-:|:-----------------:|:-----------:|:-----------------:|:-------------:|:-----------:|
+|34|AWS Foundations: Machine Learning Basics|AWS Training|Mar 2021|[Certificate](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=OEmNjTfG302AhMcN7hF8bg2)||
 |33|Demystifying AI/ML/DL|AWS Training|Mar 2021| [Certificate](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=cmu7-1QcXky7x8IB_7mByw2)||
 |32| Architecting with GKE Specialization (4 courses)| GoogleCloud, Coursera| Feb 2021| [Certificate](https://coursera.org/share/b1b9d7180b80aa29154584d34111e4ac)||
 |31| Microservices Architecture - The Complete Guide| Udemy| Jan 2021| [Certificate](https://drive.google.com/file/d/1ZOYI_DpI0SwUQYS0pcyR9rktCvjkj3Mx/view?usp=sharing)||
